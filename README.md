@@ -1,0 +1,30 @@
+# 💻 Chuyên đề Python - Nộp bài tập
+
+---
+
+## 🧑‍🎓 Thông tin sinh viên
+
+- **Họ và tên:** Huỳnh Phú Lợi
+- **MSSV:** DTH235694
+- **Lớp:** DH24TH2  
+
+---
+
+## 📘 Môn học
+
+- <span style="background:#4c8bf5;color:white;padding:3px 8px;border-radius:6px;">Tên môn: Chuyên đề Python</span>
+
+---
+
+## 🎯 Mục đích
+
+Repo này được sử dụng để lưu trữ và nộp các **bài tập**, **bài thực hành** và **project** trong môn học *Chuyên đề Python*.
+
+Mục tiêu của repo:
+
+- Nâng cao kỹ năng lập trình và tư duy logic thông qua Python  
+- Ứng dụng Python để giải quyết các bài toán thực tế  
+- Làm quen với **lập trình giao diện người dùng (GUI)** bằng **Tkinter**  
+- Quản lý, phát triển và theo dõi tiến độ các bài tập một cách khoa học  
+
+---
